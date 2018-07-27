@@ -1,6 +1,6 @@
-q=int(input())
-if(q>0):
-    if(q%2==0):
+s=int(input())
+if(s>0):
+    if(s%2==0):
         print("even")
     else:
         print("odd")
