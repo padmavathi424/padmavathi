@@ -1,5 +1,5 @@
-S=(input())
-if(S>='a' and S<'z'):
+ch=(input())
+if(ch>='a'and ch<'z'):
 print('alpha'):
 else:
 print('no')
