@@ -1,3 +1,3 @@
 N=int(input())
-sum=(N*(N=1/2))
+sum=(N*(N-1/2))
 print(p)
